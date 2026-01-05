@@ -2,7 +2,6 @@
 title: "Welcome to Helios Blogs"
 description: "An introduction to our minimalist blog platform designed for focused writing and easy content management."
 date: "2024-01-15"
-featuredImage: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80"
 tags: ["welcome", "introduction", "blogging"]
 category: "General"
 ---
